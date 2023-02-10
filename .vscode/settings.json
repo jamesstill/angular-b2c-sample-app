@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0aa85194-c115-41a1-b7b8-8ae84ed8aa2f/AppServices/subscriptions/0aa85194-c115-41a1-b7b8-8ae84ed8aa2f/resourceGroups/aad-b2c-poc/providers/Microsoft.Web/sites/aad-b2c-ui",
+    "appService.deploySubpath": "dist\\angular-b2c-sample-app",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
